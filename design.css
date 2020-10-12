@@ -1,0 +1,30 @@
+#titleImage
+{
+    width: 100%;
+}
+
+#sW_Dwarfs
+{
+    border: solid pink;
+    width: 25%;
+    float: right;
+    /* margin: 15%; */
+}
+
+body{
+
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: #e6f3ff;
+
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: teal;
+}
