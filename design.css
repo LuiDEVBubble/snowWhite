@@ -18,6 +18,13 @@ body{
     background-color: #e6f3ff;
 
 }
+
+.homepage
+{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
