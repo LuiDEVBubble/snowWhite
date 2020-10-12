@@ -1,16 +1,9 @@
+/* ========================================================================================= */
+/* Style for all pages */
+
 #titleImage
 {
     width: 100%;
-}
-
-#sW_Dwarfs
-{
-    border: solid pink;
-    width: 25%;
-    float: right;
-    margin: 2%;
-
-    
 }
 
 #body{
@@ -32,8 +25,19 @@
     color: teal;
 }
 
+/* ========================================================================================= */
 
+/* Style for index page */
 
+#sW_Dwarfs
+{
+    border: solid pink;
+    width: 25%;
+    float: right;
+    margin: 2%;
+
+    
+}
 
 #goBackUp
 {
@@ -50,7 +54,6 @@
     justify-content: center;
     
 }
-
 #divForDwarfs a{
     border: pink solid;
     width: 12%;
@@ -63,4 +66,31 @@
 {
     height: 200px;
     width: 100%;
+}
+
+
+/* ========================================================================================= */
+
+
+.dwarfInfo
+{
+   border: solid;
+    position: relative;
+}
+
+.dwarfs
+{
+    border: pink solid;
+    height: 200px;
+  /* width: 25%; */
+    float: right;
+    
+}
+
+#leftSide
+{
+    position: absolute;
+    left: 20%;
+    font-size: 12px;
+    border: solid;
 }
