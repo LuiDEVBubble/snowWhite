@@ -13,7 +13,7 @@
     
 }
 
-body{
+#body{
 
     margin-left: 15%;
     margin-right: 15%;
@@ -21,14 +21,7 @@ body{
 
 }
 
-/* Div for homepage */
-.homepage 
-{
-    /* margin-left: 15%;
-    margin-right: 15%; */
-}
-
-p{
+#body p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -68,5 +61,6 @@ p{
 
 #divForDwarfs img
 {
+    height: 200px;
     width: 100%;
 }
