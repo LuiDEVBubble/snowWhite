@@ -19,10 +19,11 @@ body{
 
 }
 
-.homepage
+/* Div for homepage */
+.homepage 
 {
-    margin-left: 15%;
-    margin-right: 15%;
+    /* margin-left: 15%;
+    margin-right: 15%; */
 }
 
 p{
@@ -44,6 +45,17 @@ p{
     float: left;
     margin-right: 1px;
 }
+
+
+#goBackUp
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+   
+}
+
 #divForDwarfs
 {
     display: flex;
