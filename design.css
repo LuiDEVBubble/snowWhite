@@ -1,7 +1,23 @@
+#titleImage
+{
+    width: fit-content;
+    float: left;
+}
+
 body{
 
     margin-left: 15%;
     margin-right: 15%;
     background-color: #e6f3ff;
 
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#headerTwo
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: teal;
 }
