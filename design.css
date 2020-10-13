@@ -1,19 +1,12 @@
+/* ========================================================================================= */
+/* Style for all pages */
+
 #titleImage
 {
     width: 100%;
 }
 
-#sW_Dwarfs
-{
-    border: solid pink;
-    width: 25%;
-    float: right;
-    margin: 2%;
-
-    
-}
-
-body{
+#body{
 
     margin-left: 15%;
     margin-right: 15%;
@@ -21,14 +14,11 @@ body{
 
 }
 
-/* Div for homepage */
-.homepage 
-{
-    /* margin-left: 15%;
-    margin-right: 15%; */
-}
+#body p{
 
-p{
+    font-weight: normal;
+    line-height: 1;
+    font-size: 16px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -39,8 +29,19 @@ p{
     color: teal;
 }
 
+/* ========================================================================================= */
 
+/* Style for index page */
 
+#sW_Dwarfs
+{
+    border: solid pink;
+    width: 25%;
+    float: right;
+    margin: 2%;
+
+    
+}
 
 #goBackUp
 {
@@ -57,7 +58,6 @@ p{
     justify-content: center;
     
 }
-
 #divForDwarfs a{
     border: pink solid;
     width: 12%;
@@ -68,5 +68,22 @@ p{
 
 #divForDwarfs img
 {
+    height: 200px;
     width: 100%;
+}
+
+
+/* ========================================================================================= */
+
+/* Style for Individual Dwarf pages */
+
+
+
+.dwarfs
+{
+    border: pink solid;
+    width: 25%;
+    float: right;
+    margin: 2%;
+    
 }
